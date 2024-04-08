@@ -1,3 +1,22 @@
 <resources>
-    <string name="app_name">segundaAplicacion</string>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_inicio">Inicio</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_perfil">Perfil</string>
+
+    <string name="title_erupciones">Erupciones Volcánicas</string>
+    <string name="title_incendios">Incendios</string>
+    <string name="title_terremotos">Terremotos</string>
+    <string name="title_inundaciones">Inundaciones</string>
+    <string name="title_deslizamientos">Deslizamientos</string>
+
+    <string name="title_cards">¿Que hacer?</string>
+    <string-array name="opciones_array">
+        <item>Opción 1</item>
+        <item>Opción 2</item>
+        <item>Opción 3</item>
+    </string-array>
+
 </resources>

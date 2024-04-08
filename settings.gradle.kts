@@ -19,7 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "segundaAplicacion"
-include(":app")
+rootProject.name = "proyecto_aplicaion_movil"
 include(":app")
  
