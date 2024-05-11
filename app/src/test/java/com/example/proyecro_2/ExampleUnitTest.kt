@@ -1,4 +1,4 @@
-package com.example.proyecto_aplicaion_movil
+package com.example.proyecro_2
 
 import org.junit.Test
 

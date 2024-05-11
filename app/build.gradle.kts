@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.proyecto_aplicaion_movil"
+    namespace = "com.example.proyecro_2"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.proyecto_aplicaion_movil"
+        applicationId = "com.example.proyecro_2"
         minSdk = 27
         targetSdk = 34
         versionCode = 1
@@ -33,9 +33,6 @@ android {
     kotlinOptions {
         jvmTarget = "1.8"
     }
-    buildFeatures {
-        viewBinding = true
-    }
 }
 
 dependencies {
@@ -45,10 +42,6 @@ dependencies {
     implementation(libs.material)
     implementation(libs.androidx.activity)
     implementation(libs.androidx.constraintlayout)
-    implementation(libs.androidx.lifecycle.livedata.ktx)
-    implementation(libs.androidx.lifecycle.viewmodel.ktx)
-    implementation(libs.androidx.navigation.fragment.ktx)
-    implementation(libs.androidx.navigation.ui.ktx)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)

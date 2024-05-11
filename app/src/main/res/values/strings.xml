@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">My Application</string>
-    <string name="title_activity_main2">MainActivity2</string>
+    <string name="app_name">proyecro_2</string>
+
     <string name="title_inicio">Inicio</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
@@ -11,12 +11,36 @@
     <string name="title_terremotos">Terremotos</string>
     <string name="title_inundaciones">Inundaciones</string>
     <string name="title_deslizamientos">Deslizamientos</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="continuar">Continuar</string>
+    <string name="mapa">Mapa</string>
+    <string name="emergencia">Emergencia</string>
+    <string name="inicio">Inicio</string>
+    <string name="antes">Antes:</string>
+    <string name="durante">Durante:</string>
+    <string name="despues">Después:</string>
+    <string name="antes_volcanes_1">- Ubica un lugar alto y lo más alejado posible de la emergencia.</string>
+    <string name="antes_volcanes_2">- En caso de evacuación, abandona el lugar antes de la erupción.</string>
+    <string name="antes_volcanes_3">- Ten pañuelos para cubrir el rostro.</string>
+    <string name="antes_volcanes_4">- Suspende el suministro de gas, luz y agua, en caso de ser necesario.</string>
+    <string name="antes_volcanes_5">- Conoce el punto de encuentro.</string>
+    <string name="antes_volcanes_6">- Ten a mano el maletín de emergencia.</string>
 
-    <string name="title_cards">¿Que hacer?</string>
-    <string-array name="opciones_array">
-        <item>Opción 1</item>
-        <item>Opción 2</item>
-        <item>Opción 3</item>
-    </string-array>
+    <string name="durante_volcanes_1">- Aléjate del lugar y evita las áreas hacia donde sopla el viento proveniente del volcán.</string>
+    <string name="durante_volcanes_2">- Cierra todas las ventanas, puertas y aperturas al exterior.</string>
+    <string name="durante_volcanes_3">- Si estás atrapado en el exterior, busca refugio bajo techo.</string>
+    <string name="durante_volcanes_4">- Evita las áreas bajas donde se pueden depositar gases venenosos.</string>
+    <string name="durante_volcanes_5">- Toma medidas para protegerte.</string>
+    <string name="durante_volcanes_6">- Usa pantalones largos y camisa de manga larga.</string>
+    <string name="durante_volcanes_7">- Mantén un paño húmedo sobre tu cara para facilitar la respiración.</string>
+    <string name="durante_volcanes_8">- Mantente alejado del área.</string>
+
+    <string name="despues_volcanes_1">- Aléjate de la ceniza volcánica. </string>
+    <string name="despues_volcanes_2">- Cubre tu boca y nariz.</string>
+    <string name="despues_volcanes_3">- Mantén la piel cubierta para evitar irritaciones y quemaduras.</string>
+    <string name="despues_volcanes_4">- Escucha radio o televisión para obte ner noticias de la emergencia y posibles instrucciones de la autoridad acargo.</string>
+    <string name="despues_volcanes_5">- Limpia la ceniza de los techos, ya que es pesada u pude hacer que un edificio colapse.</string>
+    <string name="despues_volcanes_6">- Inspecciona los servicios básicos de luz, agua y gas.</string>
+    <string name="despues_volcanes_7">- Ayuda a las personas heridas o que han quedado atrapadas y repórtalas a las autoridades.</string>
 
 </resources>

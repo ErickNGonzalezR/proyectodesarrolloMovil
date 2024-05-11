@@ -10,15 +10,35 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.Proyecto_aplicaion_movil"
+        android:theme="@style/Theme.Proyecro_2"
         tools:targetApi="31">
         <activity
-            android:name=".volcan"
+            android:name=".Deslizamientos"
             android:exported="false" />
         <activity
-            android:name=".homw"
-            android:exported="false"
-            android:label="@string/title_activity_homw" />
+            android:name=".Inundaciones"
+            android:exported="false" />
+        <activity
+            android:name=".Terremotos"
+            android:exported="false" />
+        <activity
+            android:name=".Incendios"
+            android:exported="false" />
+        <activity
+            android:name=".Erupciones"
+            android:exported="false" />
+        <activity
+            android:name=".EmergenciaFragment"
+            android:exported="false" />
+        <activity
+            android:name=".MapaFragment"
+            android:exported="false" />
+        <activity
+            android:name=".InicioFragment"
+            android:exported="false" />
+        <activity
+            android:name=".menu"
+            android:exported="false" />
         <activity
             android:name=".MainActivity"
             android:exported="true">
